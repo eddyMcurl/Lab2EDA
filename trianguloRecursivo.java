@@ -5,6 +5,10 @@ public class  trianguloRecursivo {
         Scanner sc = new Scanner(System.in);
         System.out.println("ingresa valor");
         num=sc.nextInt();
+        trianguloRecursivo(num);
+
+    }
+    public static void trianguloRecursivo(int num){ 
         for(int i =0;i<num;i++){
            
             for(int j=0;j<=i;j++){
