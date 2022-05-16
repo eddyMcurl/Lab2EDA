@@ -191,7 +191,7 @@ Los genéricos se introducen para garantizar la seguridad de tipos, evitar excep
 permitir la parametrización de tipos para mejorar la legibilidad y la tasa de reutilización del código. Sin embargo, en algunos casos, 
 los genéricos no están permitidos. Hoy resumiré algunos escenarios donde los genéricos no pueden usarse en la codificación.
 #
-
+## link del repositoride lab 01 https://github.com/andreavillagomez/EDAT-lab01.git
 ## REFERENCIAS
     - https://www.w3schools.com/java/
     - https://www.eclipse.org/downloads/packages/release/2022-03/r/eclipse-ide-enterprise-java-and-web-developers
